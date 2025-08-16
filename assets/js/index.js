@@ -1,6 +1,6 @@
 // Базовий рівень
 
-const btns = document.querySelector("#clickBtn");
+const btn = document.querySelector("#clickBtn");
 
 function changeBtnHandler(e) {
   // 1) HTML: є кнопка.
